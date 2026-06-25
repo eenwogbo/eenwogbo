@@ -6,6 +6,6 @@
  - [Role Assignments](https://github.com/eenwogbo/role-assignments)
  - [Group Assignments](https://github.com/eenwogbo/group-assign)
  - [Identity Lifecycle](https://github.com/eenwogbo/identity-lifecycle)
- - [Audit Logs]()
+ - [Audit Logs](https://github.com/eenwogbo/audit-logs)
  - [Sign-In Logs]()
  - [Authentication]()
