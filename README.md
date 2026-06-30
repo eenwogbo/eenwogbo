@@ -19,5 +19,5 @@
  - [Creating Groups in Okta Enviroment](https://github.com/eenwogbo/Creating-Groups-in-Okta)
  - [Attribute-Based Access Control (ABAC) Rules](https://github.com/eenwogbo/ABAC-Rules-in-Okta)
  - [Device Management in Okta](https://github.com/eenwogbo/Device-Management)
- - [Audit Logs in Okta]()
+ - [Audit Logs in Okta](https://github.com/eenwogbo/Audit-Logs-in-Okta)
  - [PowerShell Overview]()
