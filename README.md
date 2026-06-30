@@ -1,4 +1,5 @@
 <h1>Hi, I'm Emeka, a Cybersecurity, IAM Azure Associate </a>☺</h1>
+<h2>Identity and Access Management:</h2>
 
 <b>Microsoft Azure Entra ID</b>
  - [Creating User's in Entra ID](https://github.com/eenwogbo/user-accounts)
@@ -9,3 +10,14 @@
  - [Audit Logs](https://github.com/eenwogbo/audit-logs)
  - [Sign-In Logs](https://github.com/eenwogbo/sign-in-logs)
  - [Authentication](https://github.com/eenwogbo/authentication)
+
+<b>Okta Administration</b>
+ - [Import Users from Entra ID to Okta Enviroment]()
+ - [Enrollment Provisioning in Okta]()
+ - [Creating Users in Okta Manually]()
+ - [Add Attributes to User Profiles]()
+ - [Creating Groups in Okta Enviroment]()
+ - [Attribute-Based Access Control (ABAC) Rules]()
+ - [Device Management in Okta]()
+ - [Audit Logs in Okta]()
+ - [PowerShell Overview]()
