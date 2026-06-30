@@ -14,7 +14,7 @@
 <b>Okta Administration</b>
  - [Import Users from Entra ID to Okta Enviroment](https://github.com/eenwogbo/Import-user-from-entra-to-okta)
  - [Enrollment Provisioning in Okta](https://github.com/eenwogbo/Enrollment-Provisioning-in-Okta)
- - [Creating Users in Okta Manually]()
+ - [Creating Users in Okta Manually](https://github.com/eenwogbo/Create-Users-Manually-in-Okta)
  - [Add Attributes to User Profiles]()
  - [Creating Groups in Okta Enviroment]()
  - [Attribute-Based Access Control (ABAC) Rules]()
