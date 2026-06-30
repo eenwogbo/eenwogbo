@@ -12,7 +12,7 @@
  - [Authentication](https://github.com/eenwogbo/authentication)
 
 <b>Okta Administration</b>
- - [Import Users from Entra ID to Okta Enviroment]()
+ - [Import Users from Entra ID to Okta Enviroment](https://github.com/eenwogbo/Import-user-from-entra-to-okta)
  - [Enrollment Provisioning in Okta]()
  - [Creating Users in Okta Manually]()
  - [Add Attributes to User Profiles]()
